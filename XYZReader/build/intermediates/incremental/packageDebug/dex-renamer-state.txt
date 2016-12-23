@@ -1,0 +1,7 @@
+#Thu Dec 22 21:22:09 IST 2016
+base.0=/Users/Bheema/Downloads/XYZReaderApp-master/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0aaa9f24b9658d00fa35e258b34f1873e4bf7738
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Bheema/Downloads/XYZReaderApp-master/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e67b573f06ebf28f4a02523749e0c2fc52c0557/classes.dex
+base.1=/Users/Bheema/Downloads/XYZReaderApp-master/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e67b573f06ebf28f4a02523749e0c2fc52c0557
+file.0=/Users/Bheema/Downloads/XYZReaderApp-master/XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0aaa9f24b9658d00fa35e258b34f1873e4bf7738/classes.dex
